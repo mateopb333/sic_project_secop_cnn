@@ -1,9 +1,9 @@
-git rm --cached modelo_entrenado_secop.h5
-git rm --cached SecopII_data_sample.csv
-git rm --cached SecopII_data_sample_small.csv
-git rm --cached datos_procesados.npz
-git rm --histories.pkl
-git rm --label_encoders.pkl
-git rm --scaler.pkl
-git rm --target_encoder.pkl
-git rm --tokenizer.pkl
+modelo_entrenado_secop.h5
+SecopII_data_sample.csv
+SecopII_data_sample_small.csv
+datos_procesados.npz
+histories.pkl
+label_encoders.pkl
+scaler.pkl
+target_encoder.pkl
+tokenizer.pkl
